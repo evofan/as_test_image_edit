@@ -1,0 +1,11 @@
+﻿<flash_project name="snapshot" version="1">
+    <project_folder name="com" expanded="true">
+        <project_folder name="goodinson" expanded="true">
+            <project_folder name="snapshot" expanded="true">
+                <project_file path="./com/goodinson/snapshot/Snapshot.as" filetype="as" />
+            </project_folder>
+        </project_folder>
+    </project_folder>
+    <project_file path="./snapshot-example.fla" filetype="fla" profile="" />
+    <project_file path="./Main.as" filetype="as" />
+</flash_project>
